@@ -1,7 +1,7 @@
 // MAIN
 body {
   color: $primary-color-text;
-  background-color: $primary-white-color;
+  background-color: #a2a2a2;
   font-family: Roboto, sans-serif;
   font-size: 14px;
   letter-spacing: 0.03em;
@@ -16,6 +16,7 @@ img {
 .container {
   margin-left: auto;
   margin-right: auto;
+  padding-top: 15px;
   padding-left: 15px;
   padding-right: 15px;
 

@@ -6,6 +6,8 @@ $(document).ready(function () {
     slidesToScroll: 1,
     speed: 1000,
     easing: 'linear',
+    // с какой картинки начинать
+    initialSlide: 0,
     autoplay: true,
     autoplaySpeed: 1500,
     pauseOnFocus: true,
