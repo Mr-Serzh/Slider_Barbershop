@@ -5,7 +5,7 @@ $(document).ready(function () {
     slidesToShow: 1,
     slidesToScroll: 1,
     speed: 1000,
-    easing: 'linear',
+    easing: 'ease-in',
     // с какой картинки начинать
     initialSlide: 0,
     autoplay: true,
